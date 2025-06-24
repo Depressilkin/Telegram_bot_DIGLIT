@@ -1,7 +1,7 @@
 import telebot
 from bot.user_handlers.userkeyboards import markup_admin
 from bot.config_data import admin
-bot = telebot.TeleBot('7062078052:AAHWw9Am8GMAuThzrCOVM_ObDP9T7NJ2AEo')
+bot = telebot.TeleBot('#')
 
 role = None
 theme = ''
